@@ -1,4 +1,4 @@
 My attempt to programatically discover best school in seattle. 
-I m trying to look at data sets from data.gov and exporting from sample data sets like this (nation wide ranking of schools)
-https://inventory.data.gov/dataset/c325a86a-a0da-479d-bb87-cdbf88833b25/resource/102fd9bd-4737-401b-b88f-5c5b0fab94ec
-My challenge remains lack of data for Seattle.
+Looking at data sets from data.gov and exporting from sample data sets like this (nation wide ranking of schools)
+// https://inventory.data.gov/dataset/c325a86a-a0da-479d-bb87-cdbf88833b25/resource/102fd9bd-4737-401b-b88f-5c5b0fab94ec
+// http://docs.ckan.org/en/latest/maintaining/datastore.html
